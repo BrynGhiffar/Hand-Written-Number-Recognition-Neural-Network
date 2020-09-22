@@ -10,3 +10,5 @@ Network.
    neural networks guess.
    
 ## Demo's : 
+
+![](zero_correct.gif)
