@@ -12,7 +12,7 @@ code written by Bryn Ghiffar.
 
 '''
 
-os.chdir('C:\\Users\\bryng\\OneDrive - Monash University\\PythonPrograms\\neural_network_from_scratch\\hand_written_number_recognition_weights_and_bias')
+# Use os.chdir('PATH') to change the current working directory.
 layer_1_weights = np.load('layer_1_weights.npy')
 layer_1_bias = np.load('layer_1_bias.npy')
 output_layer_weights = np.load('output_layer_weights.npy')
