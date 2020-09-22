@@ -14,8 +14,6 @@ Network. The MNIST handwritten number dataset was used to train this neural netw
    for optimal result's drawing the number in the middle of the windos is recommended.
  - Draw the digit's in a bolded manner. This is because the dataset that was used
    to train the Neural Network.
-## Python Module's used :
- - pygame
  
 ## Demo's : 
 ![](zero_correct.gif)
